@@ -1,7 +1,7 @@
 # COVID-19 Scenario (Computer Graphics Project)
 
 ***Background***
-On 31 December 2019, WHO was informed of cases of pneumonia of unknown cause in Wuhan 
+* On 31 December 2019, WHO was informed of cases of pneumonia of unknown cause in Wuhan 
 City, China. A novel coronavirus was identified as the cause by Chinese authorities on 7 January 
 2020 and was temporarily named “2019-nCoV”. Later it spread all over the world. In 8th march 
 2020 Covid-19 first identified in Bangladesh. All around 20.5 crore people affected by this virus. 
